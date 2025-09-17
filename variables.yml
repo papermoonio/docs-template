@@ -1,0 +1,10 @@
+# Variables for reusable values in Markdown files
+# 
+# - Use snake_case for variable names
+# - Keep values short and descriptive
+# - Reference in Markdown using {{ variable_name }}
+#
+# Example:
+# repository:
+#   repository_name: @example-docs
+#   version: v1.0.0
